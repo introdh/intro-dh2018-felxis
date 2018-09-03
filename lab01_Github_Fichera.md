@@ -17,4 +17,6 @@ This summer I watched Scott Pilgrim vs. the World. I actually watched a bunch of
 
 I also spent way too much time watching YouTube videos this summer. Being a Jets fan, I've been excited this whole summer for Sam Darnold, the savior of our franchise.
 
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/-OlaMbrhJjQ/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIZCGAFwAQ==&rs=AOn4CLD0kPsZ6Cxrb0fV--lhbR25Jmj_Gw)](https://www.youtube.com/watch?v=-OlaMbrhJjQ)
+
 https://www.youtube.com/watch?v=-OlaMbrhJjQ
