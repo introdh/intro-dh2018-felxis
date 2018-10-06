@@ -28,6 +28,15 @@ Finally, I settled on 20 topics. I found 20 topics to be appropriate for this jo
 
 Initial Findings and Arguments
 -
+The topic with the highest weight is the international finance topic, encompassing 11.9% of the corpus. It does not surprise me that these are the most discussed topics in finance. As technology continues to shock industries and globalization becomes more apparent with each passing day, international finance will become more and more important. Different currencies will become easier to obtain, as will foreign bonds and securities. The data suggests this trend will continue in the future. When the journal first started publication back in 1946, the world was still recovering from the aftermath of the Second World War. Back then, many national economies chose to exclude themselves from the global market. Today, the opposite is true, making international finance a top priority.
+
+Following international finance is banking and undergraduate finance, both with 9.1%. Banking is the bloodline of finance, so like international finance, it does not surprise me to see it have such a heavy weighting in the journal of finance. As the data suggests, thanks to the same technology and globalization themes previously mentioned, banking has been an industry that has dominated finance for decades, and will continue to dominate finance for decades to come.
+
+While I was neither surprised by international finance nor banking, I was extremely surprised to see undergraduate finance to be such a highly discussed topic in the corpus. Some of the notable unique words used in this topic include: university, school and research. This means a large chunk of scholarly finance research is dedicated to universities and other institutions I would have thought I would have found more articles in this topic to be found in the Journal of Financial Education, and not the Journal of Finance.
+
+The final notable topic was risk, which made up 6.7% of the corpus. I expected this topic to have a higher weight than it did. Risk is one of the fundamental concepts of finance. Without risk, there is no financial reward. This topic included many variations of risk, including portfolio risk, exchange rate risk, regulatory risks, and more. This topic is a broader range of words than the market risk topic, which was more specific.
+
+There was no topic that deeply studied individual consumers, but this is to be expected in a finance journal. That type of research would be more suited to an economics journal.
 
 
 Possible Limitations
