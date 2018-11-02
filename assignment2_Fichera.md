@@ -50,6 +50,8 @@ The cluster network maps a number of communities within the dataset. The network
 
 The centrality network graphs the most important nodes in the entire network. Although it is covered by a case name in the screenshot, the centrality of this dataset happens to occur in the cluster in the lower left side of the network, again, which is mostly compromised of SALT cases. This network surprised me more than others. I would have assumed that Federal Tax cases impacted tax law on every level of jurisdiction, causing it to have the highest centrality of all the data points, however this network shows the opposite is true.
 
+Each judicial citation in an opinion is essentially a latent judgment by the justice who authors it about which cases are most important for resolving questions that face the Court, and social network theory suggests a number of ways to use these citations to determine which cases are most important. At the most basic level one might use the number of inward citations, or degree centrality, to measure the importance of a given decision..." (Fowler and Jeon, Science Direct, 2008)
+
 ![alt text](https://github.com/introdh/intro-dh2018-felxis/blob/master/images/plot%20centrality.JPG "Plot Centrality")
 
 ### Plot Co-Citation Issue
