@@ -8,8 +8,15 @@ The following network maps were made regarding the analysis.
 ## Networks
 
 ### Plot Year
-Words words words
+The data in this network tells us a few different things.
+
+At first glimpse, the plot year network shows an almost even distribution of cases from 1950 to 2000. As long as the United States is around, there will always be tax disputes, especially as tax law is constantly changing, hence the need for dozens of Supreme Court cases to settle major disputes.
+
+Many older Supreme Court cases tend to be on the outskirts of the network. This suggests that tax law was relatively linear in terms of its correlation during the 1950s. These older cases on the outskirts of the network also happen to be fairly linear with their edges. Take the top right of the network, for example. These are older cases that are linearly correlated, which tells us tax law in that decade was stubborn and fairly averse to adopting new tax standards.
+
 ![alt text](https://github.com/introdh/intro-dh2018-felxis/blob/master/images/plot%20year.JPG "Plot Year")
+
+Conversely, cases that are more recent tend to be found in tighter clusters with more edges, meaning more cases are highly correlated.
 
 ### Plot Issue
 wordswordswords
