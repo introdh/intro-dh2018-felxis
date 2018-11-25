@@ -18,4 +18,10 @@ https://docs.google.com/spreadsheets/d/10G4AbGl5vXl4QfUokVTVAJZnaFhZj9m0hC-RF5Ho
 
 ## Challenges of Representing Space and Place as Applied to Your Map
 
+The challenge facing arcgis as a use to showcase space over place lies in its visual nature. It can be very difficult to use visuals only to express the difference between space and place.
+
+It is essential to also incorporate words and other mediums so the audience can ascertain the distinction between the two. Bodenhamer writes, "All spaces contain embedded stories based on what has happened there. These stories are both individual and collective, and each of them links geography (space) and history (time). More important, they all reflect the values and cultural codes present in the various political and social arrangements that provide structure to society. In this sense, then, the meaning of space, especially as place or landscape, is always being constructed through the various contests that occur over power.” (Bodenhamer. Springer, 2013).
+
+I can pinpoint its location on a map or put as many pictures of the Queally Center or the Business school as I want into my StoryMap, but no matter what I add to each slide, it is nearly impossible to communicate what a specific space means to me. And this same problem can be seen with any single individual’s unique spaces across campus.
+
 ## Limits and possibilities of Mapping and/or Spatial Analysis
