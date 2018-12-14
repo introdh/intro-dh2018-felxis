@@ -25,7 +25,44 @@ Lauren Tilton: Project Co-Director and Collaborator, University of Richmond
 
 
 ## Narrative
+
 ## Enhancing the Humanities
+
+### Project activities
+
+The Federal Reserve Bank of the United States is responsible for designing, creating, and implementing economic policy in the United States. The Federal Reserve has either direct or indirect power to manipulate the economy through different means such as controlling the amount of cash in the economy, regulating interest rates, etc. The Federal Reserve is run by a group of seven members, called the Board of Governors. Each member is appointed by the President of the United States and confirmed by the US Senate. Board seats are positions with terms of 14 years in length, with one seat’s term expiring every two years. There are currently two vacant positions on the board. President Trump has nominated two individuals to fill the positions but each candidate is awaiting confirmation hearings and a senate vote.
+
+The main goal of the project is to gather insights about the past and post-position tendencies of board members in order to form a better understanding about the daily influences of the people in charge of taking care of the economy, so that there can be a better understanding of how economic policy is created. A list of characteristics will be outlined as potential influences, including characteristics such as race, gender, political affiliation, etc. Expanding the scope of the project even further, 
+
+This project would analyze and depict the data using multiple network maps of the Federal Reserve’s Board of Governors. Each network would depict a different descriptive characteristic of each board member.
+
+A network model is the best digital humanities tool for this project because it will visualize and describe the relationships each board member has had with private and public industry, thus allowing us as researches to draw insights and conclusions about the data. As Mark Newman writes, "A network is a simplified representation that reduces a system to an abstract structure capturing only the basics of connection patterns and little else" (Newman, Oxford Scholarship Online, 2016). For example, one of the networks would depict all seven members’ predecessor and successor employers before and after serving on the Federal Reserve’s Board of Governors. Another network would map their political affiliation. A more specific description of the network map is provided below in the Work Plan section of this grant proposal.
+
+### Ultimate Project Results
+
+There is incredible value to scholars, students and general audiences if this project is completed. At the end of the day, economic policy effects every person in the country. It is valuable to scholars because it will allow them to predict the future health of the economy. It is important to students because it is a broad economic topic that, with a better understanding, will help when entering the employment pool upon graduation, since the job placement rate is correlated to the health of the economy. Finally, the project will provide value to general audiences because the economy effects each person in the country. It will effect loans, mortgages, and retirement plans. If a more accurate model of the US economy can be created, it will reduce risk in the market, benefitting the general consumer.
+
+This study would take place over the entire lifespan of the US Federal Reserve Bank, as there have only ever been 94 members of the Board of Governors, dating back to 1914 when the position was established. A 95th member, Michelle Bowman, was approved in November 2018 with a starting date TBD.
+
+### Scope of project
+
+To have a successful outcome to the project, there needs to be a set of defined humanities questions that will be addressed and answered. The following is a list of questions that can be answered through the completion of this project. More questions could be added to list as work is performed.
+
+* What is the age/race/gender of the typical board member?
+* What employers (banks, NGOs, etc.) produce the most board members?
+*	Is there a relationship between preceding employer and political party?
+*	Do certain industries produce more board members, meaning they have a closer relationship to US macroeconomic policy than others?
+*	Board seat terms last 14 years and are appointed by the President. Are there any instances of Boards having a political majority while another party holds the office of presidency?
+
+A thorough due diligence search was conducted on the database of preexisting geospatial data at data.gov. Despite the exhaustive search, no closely related data set could be found. Additionally, a search of the Federal Reserve Data Download Program was conducted. Like with the search of data.gov, this search also yielded similar results, as the Federal Reserve Data Download Program is used primarily for economic data such as interest rates and consumer credit, not anywhere close in relation to the descriptive data required for this project.
+
+To complete this project, new data will be produced and developed. All data will be created in accordance with all proposed guidance found at www.fgdc.gov as well as Article 34 of the General Terms and Conditions for Awards.
+
+If we can identify the most common descriptive characteristics of the past Federal Reserve Board members, that information can be used to target potential future board members. Once the future
+
+Additionally, with this information, we can conduct a continuing empirical analysis, with help from physiological insights, to correlate the descriptive characteristics that most heavily effect each board member’s decision making to find the few different types of descriptive characteristics that effect US economic policy.
+
+
 ## Environmental Scan
 ## History of the Project
 
