@@ -64,6 +64,10 @@ Additionally, with this information, we can conduct a continuing empirical analy
 
 
 ## Environmental Scan
+
+![alt text](https://github.com/introdh/intro-dh2018-felxis/blob/master/images/board%20of%20directors.png "F500 Board of Directors")
+
+
 ## History of the Project
 
 There has been limited preliminary research and planning already completed for this project. The project director has come to a conclusion as to how large the data set will be, the entire population of governor board members, as well as how the data will be collected, cleansed, analyzed and visualized.
