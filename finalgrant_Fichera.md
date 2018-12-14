@@ -141,6 +141,17 @@ There is an evaluation plan in place. The majority of the work for this project 
 
 ## Final Product and Dissemination
 
+The nodes that are considered to be most central to each of the network maps will be considered most important. Centrality is generally used to determine how important nodes are in a network. As previously discussed, each individual board member will be represented by their own node, meaning the nodes considered central to each network will be the best indicators of economic policy in the US. In social networks, such as the one in this project, centrality can be the amount of influence or power someone has (Weingart, Journal of DH, 2011). This process will be repeated for each network that can apply to the collected data.
+
+The nodes that would be considered to be most central to the overall network are the ones with the most edges, also known as degrees. Every time two nodes share the same descriptive characteristic, they will be considered to have a relationship, which will be depicted by a line, called an edge, connecting the two nodes. For example, if the political affiliation of Republican has more edges than Democrat, then it can be concluded that there is a stronger conservative influence on US economic policy.
+
+The completed project will be distributed through a myriad of media sources. The findings will be submitted for publication in various academic journals, such as the Journal of Finance and the Journal of Digital Humanities. The project director has decided the Journal of Finance to be more appropriate than the Journal of Economics because the Journal of Finance has a much larger audience base and is considered more prestigious. If the findings are denied publication, they will be made publicly available and distributed via the internet across a multitude of platforms.
+
+If funded, the project will be inclusive of disabilities by including an audio version of the final results.
+
+The project will require the development of some new software. Any code or other evidence gathering programs that will be developed will eventually become open-source and be transparent in its findings. The project director will also encourage the use of the software to be used by anyone in future related projects.
+
+
 ## Biographies
 
 Matt Fichera is a 21-year old undergraduate student at the University of Richmond. In May he will receive a Bachelor of Science in Business Administration degree with a major in accounting and a concentration in finance. Upon graduation, Matt will spend the summer studying and preparing for the CPA exam (Certified Public Accountant), a certificate strongly recommended to obtain in the industry he will be working in. In September, Matt will begin working at PwC, a public accounting firm, in Washington DC. He will be working in the firm’s audit practice, on clients such as Mars, Inc. and Centrus.
