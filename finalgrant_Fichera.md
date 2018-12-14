@@ -1,11 +1,43 @@
+# The True Creators of US Economic Policy: How Descriptive Characteristics can help Predict US Economic Policy
+
 ## Table of Contents
 
+I.   List of Participants
+
+II.  Enhancing the Humanities
+
+III. Environmental Scan
+
+IV.  History of the Project
+
+V.	 Work Plan
+
+VI.	 Final Product and Dissemination
+
+VII. Biographies
+
+
 ## List of Participants
+
+Matthew Fichera: Project Director, University of Richmond
+
+Lauren Tilton: Project Co-Director and Collaborator, University of Richmond
+
 
 ## Narrative
 ## Enhancing the Humanities
 ## Environmental Scan
 ## History of the Project
+
+There has been limited preliminary research and planning already completed for this project. The project director has come to a conclusion as to how large the data set will be, the entire population of governor board members, as well as how the data will be collected, cleansed, analyzed and visualized.
+
+The project director has previously completed related work including a project analyzing the interconnectedness of various tax related Supreme Court decisions using the same network map currently planned to use in this project. There has been no previous financial support for this project nor has there been any previous publications from this project director.
+
+Once the data collection program is perfected, it will be quite simple to indefinitely continue this project. New governor board members are only appointed every two years or so, so at those time intervals the studies population can be increased. As of this writing, there have only ever been 94 members on the Board of Governors in the Fed’s history. Over time, an increasing population will improve the data set so that we can rely on the findings of this project to a greater extent.
+
+As a student at the University of Richmond, the project director will be able to utilize additional resources from the Digital Scholarship Lab (DSL) at the university during the completion of the project. There are many field experts who are available for reference to this project that will help with any problems that arise during the execution phase of the project. Once the main body of the project is finished, the DSL will provide ongoing support by updating the dataset when a new board member is appointed.
+
+
 ## Work Plan
 
 The work plan outlines the specific tasks that are to be completed to achieve a successful result.
