@@ -78,6 +78,10 @@ The second example of a similar project is illustrated below:
 
 ![alt text](https://github.com/introdh/intro-dh2018-felxis/blob/master/images/board%20of%20directors.png "F500 Board of Directors")
 
+The illustration comes from the Reddit page ‘Data Is Beautiful’ and shows that 80% of Fortune 500 companies share at least one board member. The relationships observed in this illustration involve executive board members who preside over multiple companies, and which companies share board members. For example, according to this study, Apple shares at least one board member with JPMorgan Chase. By seeing how interconnected Fortune 500 companies are, based on board members, it can be observed how similarly two Fortune 500 companies will act both now and in the future.
+
+The chart is a stunning revelation into the inner workings of the most important decision makers impacting private industry in the United States, and even around the world, as most of the companies included in the illustration are global businesses. The goal of this project is to have a similar, yet distinct, revelation about US economic policy that will improve on the insights found in this study. It is similar in the point that it wants to show the interconnectedness of the Federal Reserve and different private jobs, companies and industries. However, it is different in the way it plans to achieve this goal. The illustration and network map used for this project will not look like this one, as it is not the best way to visualize the data this project will collect. This project will use multiple network maps to visualize different descriptive characteristics about Federal Reserve board members. Multiple network maps will be used so that it is easier for the audience to digest the same nodes in the map while only changing the edges (relationships) of the data.
+
 
 ## History of the Project
 
