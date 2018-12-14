@@ -65,6 +65,17 @@ Additionally, with this information, we can conduct a continuing empirical analy
 
 ## Environmental Scan
 
+During the environmental scan portion of this proposal, there were two projects found that have similar intentions to this proposed project, but had different results as they were studying different things.
+The first example comes from Matthew Jockers, a university professor of digital humanities, in chapter 4 of his book, Macroanalysis, he describes macroanalysis as a way of using a computer program to read things from a distance, or a macro-level. He calls this, “distant reading” (Jockers, University of Illinois Press, 2013).
+
+In his project he uses macroanalysis to conduct text analysis in 19th century literature. His goal is to see how cultural and economic changes have
+
+In his project, he is analyzing descriptive characteristics, such as writing styles, to cross reference against qualitative facts, such as economic metrics. Jockers writes, “A macroanalytic approach helps us not only to see and understand the operations of a larger “literary economy,” but, by means of scale, to better see and understand the degree to which literature and the individual authors who manufacture that literature respond to or react against literary and cultural trends” (Jockers, University of Illinois Press, 2013).
+
+This proposed project has a similar goal but is focused on a different means of coming to its conclusion. In this proposed project, the descriptive characteristics previously mentioned will be used to form a quantitative model that will predict the future of the economy. Jockers found the relationship between literature and the economy, but this project takes that relationship a step further by using the relationship to build a predictive model.
+
+The second example of a similar project is illustrated below:
+
 ![alt text](https://github.com/introdh/intro-dh2018-felxis/blob/master/images/board%20of%20directors.png "F500 Board of Directors")
 
 
