@@ -2,6 +2,7 @@ Scope of the Journal
 -
 The Journal of Finance is the most read and most prestigious publication in the scholarly field of finance. In fact, it is rated as the most cited academic journal in the Business/Finance category. The journal accepts articles from all areas of study within finance. Many articles posted in the Journal of Finance have come to change how we think about finance and how we build better models to evaluate finance. I picked this journal for this assignment because it was an area of study I am very interested in as I will be graduating with a concentration in finance in May.
 
+Website: https://felxis.github.io/dh-topic-models/
 
 Questions to Answer
 -
